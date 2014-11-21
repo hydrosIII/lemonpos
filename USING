@@ -44,5 +44,5 @@ For administration backend, run "squeeze". You will be asked for admin's passwor
    weights and measures. There is also a purchase option at "Stock Movements, Check-in" to enter
    products that were purchased to the database.
    
-   You can also view other records such as Transactions and Balances. For now, it is limited only
-   to view it, not modify it.
+   You can also view other records such as Transactions and Balances.
+   

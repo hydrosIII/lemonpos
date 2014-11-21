@@ -514,4 +514,21 @@ INSERT INTO lemondb.bool_values (id, text) VALUES(1, 'YES');
 
 INSERT INTO lemondb.config (firstrun, taxIsIncludedInPrice, storeLogo, storeName, storeAddress, storePhone, logoOnTop, useCUPS, smallPrint, db_version) VALUES ('yes, it is February 6 1978', true, '', '', '', '', true, true, true, '0950');
 
+### the next data is not used by lemon but required to work properly.
+### todo: code cleaning for these data
+
+USE lemondb;
+
+INSERT INTO lemondb.taxmodels (modelid,tname,elementsid) VALUES(1,"Exento", "1");
+INSERT INTO lemondb.taxelements (elementid, ename, rate) VALUES (1,"Exento de impuestos", 0);
+
+INSERT INTO lemondb.taxmodels (modelid,tname,elementsid) VALUES(2,"General","2");
+INSERT INTO lemondb.taxelements (elementid, ename, rate) VALUES (2,"IVA", 16);
+
+INSERT INTO lemondb.taxmodels (modelid,tname,elementsid) VALUES(3,"Cigarros", "2,3");
+INSERT INTO lemondb.taxelements (elementid, ename, rate) VALUES (3,"Impuesto al tabaco", 5);
+
+INSERT INTO lemondb.taxmodels (modelid,tname,elementsid) VALUES(4,"Comunicaciones","3,4");
+INSERT INTO lemondb.taxelements (elementid, ename, rate) VALUES (4,"Impuesto a las comunicaciones", 2);
+
 

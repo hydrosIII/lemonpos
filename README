@@ -11,6 +11,9 @@ an administration tool for managing your store, printed reports, and more...
 It has beeen tested with a parallel matrix printer (Star Micronics SP500), an USB thermal printer
 (Star Micronics TSP143), and an USB barcode reader (Dataogic DLC6065-M0).
 
+Also tried in Epson TMT printers.
+
+
 More information on 
 
 Project Home Page:
