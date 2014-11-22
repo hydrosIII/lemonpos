@@ -1,4 +1,3 @@
-
 LemonPOS is an open source Point of Sale software targeted for micro, small and medium businesses.
 MySQL is employed for data management and storage, and can be used a single database with
 many POS terminals on a network.
@@ -11,22 +10,54 @@ an administration tool for managing your store, printed reports, and more...
 It has beeen tested with a parallel matrix printer (Star Micronics SP500), an USB thermal printer
 (Star Micronics TSP143), and an USB barcode reader (Dataogic DLC6065-M0).
 
+<<<<<<< HEAD
 Also tried in Epson TMT printers.
+=======
+
+I have tested also with EPSON TMT printers.
+
+It will work with full capacity if the ticket printer has a cups driver, 
+if not you can also print to pure text, but features like paper cutting 
+will not work properly unless configured.
+
+I'm rebuilding the original project from Miguel Chavéz. Im not a 
+programmer but i will provide documentation for this program.
+
+Current branch master is taken from FacturaMX branch in Miguel's repo. 
+It is the source code for 30-abr-2013 lemon release present at 
+sourceforge, and so my starting point.
+
+
+For the nest months (writing in nomvember 2014) i will:
+
+--- Provide better translations to spanish, and possibly portuguese.
+--- Add some documentation to install the package and give some advanced options.
+--- Create packages for new distributions focusing in Debian and Arch linux.
+--- Some code cleaning.
+>>>>>>> master
 
 
 More information on 
 
 Project Home Page:
-http://lemonpos.org/
+http://hydrosiii.github.io
 
 Project Development Blog:
-http://lemonpos.wordpress.com/
+http://hydrosiii.github.io
 
 Bug and feature request ticket system:
-http://apps.sourceforge.net/trac/lemonpos/
+Please use the github ticket system.
 
 Wiki:
-http://apps.sourceforge.net/mediawiki/lemonpos/
+
+I don't have a wiki right now, sorry, contact me in the blog.
+
 
 Author email is:
-miguel -AT- lemonpos.org
+
+galprasmarco@gmail.com
+
+
+Original Author and the one that made everything possible is:
+
+Miguel Chávez Gamboa.
