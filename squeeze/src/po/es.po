@@ -9,15 +9,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://sourceforge.net/tracker/?"
 "atid=1011570&group_id=209899&func=browse\n"
 "POT-Creation-Date: 2011-09-20 18:17-0500\n"
-"PO-Revision-Date: 2007-12-21 13:10-0600\n"
+"PO-Revision-Date: 2014-11-21 21:52-0600\n"
 "Last-Translator: Miguel Chavez Gamboa <miguel@lemonpos.org>\n"
 "Language-Team: Español <es@lemonpos.org>\n"
-"Language: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Poedit 1.6.10\n"
 
 #: clienteditor.cpp:41
 msgid "Client Editor"
@@ -25,7 +25,7 @@ msgstr "Editor de clientes"
 
 #: clienteditor.cpp:57
 msgid "Enter a 6, 12, or 13 digits Bar Code."
-msgstr ""
+msgstr "Escriba un código de 6,12 o 13 dígitos."
 
 #: clienteditor.cpp:58
 msgid "Enter client full name"
@@ -88,9 +88,8 @@ msgid "Jose Nivar"
 msgstr ""
 
 #: main.cpp:44
-#, fuzzy
 msgid "Many ideas, bug reports and testing"
-msgstr "Muchas ideas y reporte de errores"
+msgstr "Muchas ideas, reporte de errores y pruebas."
 
 #: main.cpp:45
 msgid "Benjamin Burt"
@@ -100,11 +99,11 @@ msgstr ""
 msgid ""
 "Many ideas, Documentation Writer, How-to Videos Creation, and general help "
 "and support"
-msgstr ""
+msgstr "Ideas, documentador, creación de videos y soporte y ayuda en general."
 
 #: main.cpp:48
 msgid "Document to open"
-msgstr ""
+msgstr "Documento para abrir"
 
 #. i18n: file: squeezeui.rc:4
 #. i18n: ectx: ToolBar (aGeneral)
@@ -181,7 +180,7 @@ msgstr "&Reportes"
 #: extractedrc.cpp:159 extractedrc.cpp:448 extractedrc.cpp:469
 #: extractedrc.cpp:613
 msgid "Form"
-msgstr ""
+msgstr "Forma"
 
 #. i18n: file: ui/editclient_widget.ui:20
 #. i18n: ectx: property (text), widget (QLabel, label_14)
@@ -715,7 +714,7 @@ msgstr "C&osto:"
 #: po/extractedrc.cpp:213 po/extractedrc.cpp:344 extractedrc.cpp:213
 #: extractedrc.cpp:344
 msgid "It's A Raw Product"
-msgstr "Es un producto ó materia prima"
+msgstr "Es materia prima"
 
 #. i18n: file: ui/producteditor.bkp.ui:425
 #. i18n: ectx: property (text), widget (QLabel, label_10)
@@ -942,7 +941,7 @@ msgstr "Para calcular, presione el boton +."
 #: po/extractedrc.cpp:255 po/extractedrc.cpp:354 extractedrc.cpp:255
 #: extractedrc.cpp:354
 msgid "It's a Group/Pack"
-msgstr "Es un grupo ó paquete."
+msgstr "Es un grupo o paquete."
 
 #. i18n: file: ui/producteditor.bkp.ui:1012
 #. i18n: ectx: property (text), widget (QPushButton, btnShowGroup)
@@ -1013,7 +1012,7 @@ msgstr ""
 #: extractedrc.cpp:400
 #, no-c-format
 msgid "Price drop % for the group:"
-msgstr ""
+msgstr "Porcentaje de descuento % para el grupo:"
 
 #. i18n: file: ui/producteditor.bkp.ui:1062
 #. i18n: ectx: property (text), widget (QLabel, label_4)
@@ -1025,9 +1024,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: po/extractedrc.cpp:272 po/extractedrc.cpp:403 extractedrc.cpp:272
 #: extractedrc.cpp:403
-#, fuzzy
 msgid "Group Price:"
-msgstr "Grupo"
+msgstr "Precio grupal"
 
 #. i18n: file: ui/producteditor.bkp.ui:1073
 #. i18n: ectx: property (text), widget (QLabel, lblGPrice)
@@ -1063,7 +1061,7 @@ msgstr "Grupo"
 #: extractedrc.cpp:616 extractedrc.cpp:622 extractedrc.cpp:683
 #: extractedrc.cpp:728 extractedrc.cpp:851
 msgid "TextLabel"
-msgstr ""
+msgstr "Etiqueta"
 
 #. i18n: file: ui/producteditor.bkp.ui:1103
 #. i18n: ectx: property (toolTip), widget (QToolButton, btnAdd)
@@ -1191,7 +1189,6 @@ msgstr "Cerrar este panel"
 #. i18n: file: ui/producteditor.ui:153
 #. i18n: ectx: property (text), widget (QLabel, label_11)
 #: po/extractedrc.cpp:317 extractedrc.cpp:317
-#, fuzzy
 msgid "Alphacode:"
 msgstr "Código alfanumérico"
 
@@ -1199,7 +1196,7 @@ msgstr "Código alfanumérico"
 #. i18n: ectx: property (text), widget (QLabel, label_16)
 #: po/extractedrc.cpp:409 extractedrc.cpp:409
 msgid "qty:"
-msgstr ""
+msgstr "Cant:"
 
 #. i18n: file: ui/producteditor.ui:1274
 #. i18n: ectx: property (text), widget (QLabel, lblProfit)
@@ -1232,14 +1229,13 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, chUnlimitedStock)
 #: po/extractedrc.cpp:442 extractedrc.cpp:442
 msgid "Unlimited Stock"
-msgstr ""
+msgstr "Stock ilimitado"
 
 #. i18n: file: ui/producteditor.ui:1288
 #. i18n: ectx: property (text), widget (QCheckBox, chNotDiscountable)
 #: po/extractedrc.cpp:445 extractedrc.cpp:445
-#, fuzzy
 msgid "Non Discount item"
-msgstr "Descuento %"
+msgstr "Producto no susceptible a descuento"
 
 #. i18n: file: ui/providerseditor.ui:65
 #. i18n: ectx: property (text), widget (QLabel, label_17)
@@ -1660,7 +1656,7 @@ msgstr "Agregar nuevo mensaje"
 #. i18n: ectx: attribute (title), widget (QWidget, tabOnScreen)
 #: po/extractedrc.cpp:731 extractedrc.cpp:731
 msgid "On Screen"
-msgstr ""
+msgstr "En pantalla"
 
 #. i18n: file: ui/squeezeview_base.ui:1330
 #. i18n: ectx: property (toolTip), widget (QToolButton, btnCashFlow)
@@ -1850,21 +1846,19 @@ msgstr "Cantidad pagada >"
 #: po/extractedrc.cpp:842 extractedrc.cpp:842
 #, fuzzy
 msgid "Printed"
-msgstr "Imprimir"
+msgstr "Impresos"
 
 #. i18n: file: ui/squeezeview_base.ui:2055
 #. i18n: ectx: property (text), widget (QPushButton, btnAddCurrency)
 #: po/extractedrc.cpp:845 extractedrc.cpp:845
-#, fuzzy
 msgid "Add Currency"
-msgstr "Agregar cliente"
+msgstr "Agregar moneda"
 
 #. i18n: file: ui/squeezeview_base.ui:2062
 #. i18n: ectx: property (text), widget (QPushButton, btnDeleteCurrency)
 #: po/extractedrc.cpp:848 extractedrc.cpp:848
-#, fuzzy
 msgid "Delete Currency"
-msgstr "Borrar producto"
+msgstr "Borrar moneda"
 
 #. i18n: file: ui/squeezeview_base.ui:2142
 #. i18n: ectx: property (text), widget (QRadioButton, chOffersFilterByProduct)
@@ -2023,9 +2017,8 @@ msgid "Stock Qty:"
 msgstr "Cantidad en inventario:"
 
 #: producteditor.cpp:356
-#, fuzzy
 msgid "Gross Profit: %1% (%2)"
-msgstr "Utilidades totales: %1"
+msgstr "Utilidades totales: %1 (%2)"
 
 #: producteditor.cpp:380 squeezeview.cpp:2183
 msgid ""
@@ -2053,12 +2046,13 @@ msgstr "Ultimo precio"
 
 #: purchaseeditor.cpp:447
 msgid "<b>Unlimited Stock Products cannot be purchased.</b>"
-msgstr ""
+msgstr "Productos con stock ilimitado no pueden ser comprados."
 
 #: purchaseeditor.cpp:509 purchaseeditor.cpp:530
 msgid ""
 "<b>Stock cannot go negative.</b> The <i>minimum</i> purchase can be <b>%1</b>"
 msgstr ""
+"b>El stock no puede ser negativo.</b> El <i>mínimo</i> de compra es <b>%1</b>"
 
 #: purchaseeditor.cpp:591 purchaseeditor.cpp:625
 msgid "Items in this purchase [ %1  items,  %2 ]"
@@ -2142,11 +2136,11 @@ msgstr "Ver registro de eventos"
 
 #: squeeze.cpp:421
 msgid "View Currencies"
-msgstr ""
+msgstr "Ver monedas"
 
 #: squeeze.cpp:427
 msgid "View Reservations"
-msgstr ""
+msgstr "Ver Reservaciones"
 
 #: squeeze.cpp:492
 msgid "General"
@@ -2189,7 +2183,6 @@ msgid "Low Stock Products"
 msgstr "Productos por agotarse"
 
 #: squeezeview.cpp:140
-#, fuzzy
 msgid "Stock Report"
 msgstr "Imprimir reporte de inventario bajo"
 
@@ -2211,12 +2204,11 @@ msgstr "Pesos y medidas"
 
 #: squeezeview.cpp:554
 msgid "Currencies"
-msgstr ""
+msgstr "Monedas"
 
 #: squeezeview.cpp:562
-#, fuzzy
 msgid "Reservations"
-msgstr "Descripción"
+msgstr "Reservaciones"
 
 #: squeezeview.cpp:652 squeezeview.cpp:658
 msgid "%1"
@@ -2431,9 +2423,8 @@ msgid "Payment Complete"
 msgstr "Pago Completado"
 
 #: squeezeview.cpp:1698
-#, fuzzy
 msgid "Reservation"
-msgstr "Descripción"
+msgstr "Reservación"
 
 #: squeezeview.cpp:1699
 #, fuzzy
@@ -2441,14 +2432,12 @@ msgid "Tr. #"
 msgstr "Tr. Num"
 
 #: squeezeview.cpp:1703
-#, fuzzy
 msgid "Prepayment"
-msgstr "Pago"
+msgstr "Prepago"
 
 #: squeezeview.cpp:1704
-#, fuzzy
 msgid "Total"
-msgstr "En total"
+msgstr "Total"
 
 #: squeezeview.cpp:1767
 msgid "Settings changed"
@@ -2475,7 +2464,6 @@ msgid "Cannot modify stock"
 msgstr "No se puede modificar el inventario"
 
 #: squeezeview.cpp:2230
-#, fuzzy
 msgid "Stock Correction: [Product %1] from %2 to %3. Reason:%4"
 msgstr "Correción de Inventario: [%1] de %2 a %3. Razón:%4"
 
@@ -2616,7 +2604,7 @@ msgstr "Método"
 
 #: squeezeview.cpp:2874
 msgid "Total taxes collected today: "
-msgstr ""
+msgstr "Total de impuestos cobrados hoy:"
 
 #: squeezeview.cpp:2906 squeezeview.cpp:3038 squeezeview.cpp:3147
 msgid "Total Sales : %1"
@@ -2653,7 +2641,7 @@ msgstr "terminal # %1"
 
 #: squeezeview.cpp:3006
 msgid "Total taxes collected for this terminal: "
-msgstr ""
+msgstr "Total de impuestos cobrados por esta terminal:"
 
 #: squeezeview.cpp:3107
 msgid "End of Month report"
@@ -2661,7 +2649,7 @@ msgstr "Reporte de fin de mes"
 
 #: squeezeview.cpp:3116
 msgid "Total taxes collected for the month: "
-msgstr ""
+msgstr "Total de impuestos cobrados este mes:"
 
 #: squeezeview.cpp:3165 squeezeview.cpp:3191
 msgid "Print end of Month report"
@@ -2690,7 +2678,7 @@ msgstr "Imprimir reporte de inventario bajo"
 
 #: squeezeview.cpp:3294
 msgid "Product Stock (excluding groups)"
-msgstr ""
+msgstr "Inventario del producto (excluyendo grupos de productos)"
 
 #: squeezeview.cpp:3407 squeezeview.cpp:3433
 msgid "Print Sold Out Products"
@@ -2774,19 +2762,16 @@ msgid "Enter the new ticket message."
 msgstr "Escriba el nuevo mensaje insertar:"
 
 #: squeezeview.cpp:3711
-#, fuzzy
 msgid "Enter the new currency"
-msgstr "Escriba el nuevo mensaje insertar:"
+msgstr "Escriba la nueva moneda a insertar"
 
 #: squeezeview.cpp:3738
-#, fuzzy
 msgid "Do you really want to delete the currency '%1'?"
 msgstr "¿Realmente desea borrar la medida  '%1'?"
 
 #: squeezeview.cpp:3749
-#, fuzzy
 msgid "Default currencies cannot be deleted."
-msgstr "El cliente principal (Público) no puede ser borrado."
+msgstr "La moneda por defecto no puede ser borrada."
 
 #: usereditor.cpp:41
 msgid "User Editor"
@@ -2838,7 +2823,7 @@ msgstr "Nueva Cantidad:"
 
 #: ../../src/inputdialog.cpp:82
 msgid "New currency factor:"
-msgstr ""
+msgstr "Nueva conversión de moneda."
 
 #: ../../src/inputdialog.cpp:83
 msgid "Amount:"
@@ -2849,9 +2834,8 @@ msgid "New Message:"
 msgstr "Nuevo mensaje"
 
 #: ../../src/inputdialog.cpp:86
-#, fuzzy
 msgid "New Currency Name:"
-msgstr "por cliente:"
+msgstr "Nueva moneda"
 
 #: ../../src/inputdialog.cpp:87
 msgid "Reason:"
@@ -2886,14 +2870,12 @@ msgid "Enter the number of the month or season here..."
 msgstr "Escriba el número de mes o temporada..."
 
 #: ../../src/inputdialog.cpp:130
-#, fuzzy
 msgid "Enter the new currency name..."
-msgstr "Escriba la nueva cantidad de inventario..."
+msgstr "Escriba el nombre de la nueva moneda"
 
 #: ../../src/inputdialog.cpp:131
-#, fuzzy
 msgid "Enter the new currency factor..."
-msgstr "Escriba la nueva cantidad de inventario..."
+msgstr "Escriba el nuevo factor de conversión"
 
 #: ../../src/inputdialog.cpp:172
 msgid "Ok"
