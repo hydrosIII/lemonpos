@@ -1,3 +1,10 @@
+This program is unmantained and unused by me, however as far as I know it is still shipped in ubuntu. 
+https://packages.ubuntu.com/search?keywords=lemon
+and you cancompile it and use it
+If you know a little programming and you have some time you can clone it. 
+
+Thanks. 
+
 LemonPOS is an open source Point of Sale software targeted for micro, small and medium businesses.
 MySQL is employed for data management and storage, and can be used a single database with
 many POS terminals on a network.
